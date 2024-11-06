@@ -1,2 +1,2 @@
 # Foundations in Genomic Analyses Fall 2024
-This repository is a landing page for the Foundations in Genomic Analyses workshop series held in fall quarter of 2024. 
+This repository is a landing page for the Foundations in Genomic Analyses workshop series held in fall quarter of 2024. This series aims to cover topics and skills foundational to conducting genomics-related research and is a collaboration between Northwestern IT's Research Computing and Data Services and the Galter Library, taught by Haley Carter and Pamela Shaw. 
