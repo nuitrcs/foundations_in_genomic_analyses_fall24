@@ -13,6 +13,12 @@ The first step in almost all bioinformatic pipelines is sequence alignment. Ther
 
 Materials can be found here:
 
+## Workshop 3: Genome Browsers
+
+This workshop provides a brief overview on the most popular features of two genome browsers: the UCSC Genome Browser and the Ensembl Genome Browser. The UCSC Genome Browser was created by the Genome Bioinformatics Group of the University of California at Santa Cruz. Ensembl  is a joint project between EMBL-EBI and the Wellcome Trust Sanger Institute. Both browsers allow the user to retrieve comprehensive information on a gene or genomic sequence in context of the genome, with multiple customizable tracks to display curated data from numerous external sources for features such as polymorphisms, transcript variants and histone modifications. This workshop will cover how to locate these browsers, manage tracks and annotations, how to get sequence data from the browser view, and the avenues to download data from each site – we will compare and contrast how each browser displays data, so the user can decide which is best for their purposes.  
+![image](https://github.com/user-attachments/assets/247bb275-965a-4f07-a37d-726cceaf1f3c)
+
+
 ## Workshop 5: 
 
 Materials can be found here: https://github.com/nuitrcs/R_environments_GCC
