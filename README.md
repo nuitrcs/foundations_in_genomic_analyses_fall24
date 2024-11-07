@@ -16,10 +16,18 @@ Materials can be found here:
 ## Workshop 3: Genome Browsers
 
 This workshop provides a brief overview on the most popular features of two genome browsers: the UCSC Genome Browser and the Ensembl Genome Browser. The UCSC Genome Browser was created by the Genome Bioinformatics Group of the University of California at Santa Cruz. Ensembl  is a joint project between EMBL-EBI and the Wellcome Trust Sanger Institute. Both browsers allow the user to retrieve comprehensive information on a gene or genomic sequence in context of the genome, with multiple customizable tracks to display curated data from numerous external sources for features such as polymorphisms, transcript variants and histone modifications. This workshop will cover how to locate these browsers, manage tracks and annotations, how to get sequence data from the browser view, and the avenues to download data from each site – we will compare and contrast how each browser displays data, so the user can decide which is best for their purposes.  
-![image](https://github.com/user-attachments/assets/247bb275-965a-4f07-a37d-726cceaf1f3c)
 
+Materials can be found here:
 
-## Workshop 5: 
+## Workshop 4: Sequence Similarity Searching
+
+Sequence similarity searches can be done in multiple ways on multiple platforms.  It is useful for comparing or discovering conserved regions across sometimes very dissimilar sequences. BLAST (Basic Local Alignment Search Tool) aligns a sequence (nucleotide or peptide) to a database of other sequences, or can align two sequences to each other.  This workshop will cover the basics of sequence similarity searching with NCBI’s BLAST, as well as introduce specialized BLAST tools that can help you find statistically significant matches to a nucleotide or protein query sequence, discover homology across species, target your search to specific taxonomic groups in the BLAST database, and retrieve data for further analysis.
+
+Materials can be found here:
+
+## Workshop 5: Setting up an R Environment for Analysis with the GCC
+
+R is a popular language for data analysis and many R packages have been written for genomic analysis, especially analysis of single cell RNA-seq data. Installing and managing these packages is relatively straightforward on a local laptop but performing these analyses with large genomic or transcriptomic datasets often requires more computational power than an individual laptop provides. This workshop will cover R package installation on Quest and interfacing with a custom R environment via RStudio on Quest OnDemand. We will focus on installation of Bioconductor packages and packages used with scRNA-seq data. 
 
 Materials can be found here: https://github.com/nuitrcs/R_environments_GCC
 
