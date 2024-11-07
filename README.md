@@ -34,3 +34,7 @@ Materials can be found here: https://github.com/nuitrcs/R_environments_GCC
 ## Workshop 6: Getting Started with nf-core Nextflow Pipelines
 
 Nextflow is a workflow management tool designed to enable the creation of reproducible workflows that function across computational resources though the use of software containers. Many curated bioinformatics Nextflow pipelines can be found through the nf-core. In this workshop, we will explore their collection and work through running an nf-core pipeline on Quest. The biggest consideration for using Nextflow on Quest is setting the configuration to use Quest’s resources appropriately. We will cover how this is done through the nu-genomics profile for nf-core pipelines as well as writing a custom configuration file when necessary.
+
+## Contact us for more information or to request future workshops!
+
+If there is an topic you'd love to see offered by NUIT's Research Computing and Data Services team, please reach out to quest-help@northwestern.edu or haley.carter@northwestern.edu.
